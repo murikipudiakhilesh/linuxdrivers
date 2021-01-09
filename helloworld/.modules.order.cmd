@@ -1,0 +1,1 @@
+cmd_/home/parallels/workarea_akhilesh/linuxdrivers/helloworld/modules.order := {   echo /home/parallels/workarea_akhilesh/linuxdrivers/helloworld/helloworld.ko; :; } | awk '!x[$$0]++' - > /home/parallels/workarea_akhilesh/linuxdrivers/helloworld/modules.order

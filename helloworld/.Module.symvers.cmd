@@ -1,0 +1,1 @@
+cmd_/home/parallels/workarea_akhilesh/linuxdrivers/helloworld/Module.symvers := sed 's/ko$$/o/' /home/parallels/workarea_akhilesh/linuxdrivers/helloworld/modules.order | scripts/mod/modpost  -a   -o /home/parallels/workarea_akhilesh/linuxdrivers/helloworld/Module.symvers -e    -T -

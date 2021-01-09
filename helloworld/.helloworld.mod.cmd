@@ -1,0 +1,1 @@
+cmd_/home/parallels/workarea_akhilesh/linuxdrivers/helloworld/helloworld.mod := { echo  /home/parallels/workarea_akhilesh/linuxdrivers/helloworld/helloworld.o;  echo; } > /home/parallels/workarea_akhilesh/linuxdrivers/helloworld/helloworld.mod
